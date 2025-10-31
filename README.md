@@ -12,10 +12,8 @@ Welcome to my GitHub profile! I’m excited to share my journey and projects wit
 - 🌱 **I’m currently learning:** 
   Machine Learning, Generative AI, and LLMs.
 - 📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anirudhpanwar2000).
-- 😄 **Pronouns:**  
-  He/Him
-- ⚡ **Fun fact:**
-  I enjoy playing both physical sports and video games.
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I enjoy playing both physical sports and video games.
 
 ---
 
