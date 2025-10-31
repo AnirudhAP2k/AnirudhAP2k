@@ -5,20 +5,19 @@ Welcome to my GitHub profile! I’m excited to share my journey and projects wit
 ---
 
 ### 📖 About Me
-- 🔭 **I’m currently working on:**  
+- 🔭 **I’m currently working on:**
+  (iValuePlus Servics Pvt. Ltd.)[https://ivalueplus.com/]
   Exploring new technologies and building innovative projects.
-- 👀 **I’m interested in:**  
-  [Add specific topics you’re interested in, e.g., Web Development, AI, Open Source, etc.]
-- 🌱 **I’m currently learning:**  
-  [Mention what you’re learning, e.g., Advanced JavaScript, Machine Learning, etc.]
-- 💞️ **I’m looking to collaborate on:**  
-  [Let others know what projects you’re open to collaborating on!]
+- 👀 **I’m interested in:**
+  Software Development, Solution Architect, AI/ML, Deep Learning, Artificial Neural Netrorks, Gen AI, Open Source etc. 
+- 🌱 **I’m currently learning:** 
+  Machine Learning, Generative AI, and LLMs.
 - 📫 **How to reach me:**  
-  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or [Twitter](https://twitter.com/your-profile).
+  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anirudhpanwar2000).
 - 😄 **Pronouns:**  
   He/Him
-- ⚡ **Fun fact:**  
-  [Add a fun fact about yourself, e.g., "I love solving puzzles and exploring new cultures."]
+- ⚡ **Fun fact:**
+  I enjoy playing both physical sports and video games.
 
 ---
 
@@ -42,8 +41,7 @@ Welcome to my GitHub profile! I’m excited to share my journey and projects wit
 ### 📌 Projects
 Here are some of the projects I’ve worked on recently:
 
-- [**Project Name**](https://github.com/AnirudhAP2k/project-link) - A brief description of what the project does.
-- [**Another Project**](https://github.com/AnirudhAP2k/another-project) - Add a summary or key feature of the project here.
+- [**ERP System - IVPHub**](https://bitbucket.org/ivalueplus/ivalueplus_ivphub/) - Am ERP system.
   
 <!-- Add more projects with links as needed -->
 
@@ -52,9 +50,8 @@ Here are some of the projects I’ve worked on recently:
 ### 🤝 Let’s Connect
 I'm always open to networking and collaboration! You can reach out to me through the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anirudhpanwar2000)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:anirudh0976@gmail.com)
 
 ---
 
