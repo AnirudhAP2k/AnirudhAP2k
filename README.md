@@ -5,15 +5,13 @@ Welcome to my GitHub profile! I’m excited to share my journey and projects wit
 ---
 
 ### 📖 About Me
-- 🔭 **I’m currently working on:**
-  (iValuePlus Servics Pvt. Ltd.)[https://ivalueplus.com/]
+- 🔭 **I’m currently working on:** [iValuePlus Servics Pvt. Ltd.](https://ivalueplus.com/)
   Exploring new technologies and building innovative projects.
 - 👀 **I’m interested in:**
   Software Development, Solution Architect, AI/ML, Deep Learning, Artificial Neural Netrorks, Gen AI, Open Source etc. 
 - 🌱 **I’m currently learning:** 
   Machine Learning, Generative AI, and LLMs.
-- 📫 **How to reach me:**  
-  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anirudhpanwar2000).
+- 📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anirudhpanwar2000).
 - 😄 **Pronouns:**  
   He/Him
 - ⚡ **Fun fact:**
