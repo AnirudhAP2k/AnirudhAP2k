@@ -61,6 +61,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-fast.com/api?username=AnirudhAP2k&show_icons=true&theme=radical" alt="Anirudh's GitHub stats" />
-  <img src="https://github-readme-stats-fast.com/api/top-langs/?username=AnirudhAP2k&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AnirudhAP2k&show_icons=true&theme=radical" alt="Anirudh's GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnirudhAP2k&layout=compact&theme=radical" alt="Top Languages" />
 </p>
