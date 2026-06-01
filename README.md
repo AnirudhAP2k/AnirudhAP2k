@@ -114,9 +114,3 @@ Below are some major production-grade and prototype applications I have engineer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AnirudhAP2k" alt="Anirudh's GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnirudhAP2k" alt="Top Languages" />
-</p>
